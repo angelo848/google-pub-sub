@@ -1,0 +1,4 @@
+google:
+  pubsub:
+    projectId: elevated-range-355915
+    topicA: topic-a
