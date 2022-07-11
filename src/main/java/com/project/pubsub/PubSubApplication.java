@@ -1,4 +1,4 @@
-package com.projectpubsub.publisherA;
+package com.project.pubsub;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
@@ -9,12 +9,12 @@ import java.util.TimeZone;
 
 @SpringBootApplication
 @Slf4j
-public class PublisherAApplication {
+public class PubSubApplication {
 
 	public static void main(String[] args) {
 		TimeZone.setDefault(TimeZone.getTimeZone("UTC"));
 		log.info("Date in UTC: {}", LocalDateTime.now());
-		SpringApplication.run(PublisherAApplication.class, args);
+		SpringApplication.run(PubSubApplication.class, args);
 	}
 
 }

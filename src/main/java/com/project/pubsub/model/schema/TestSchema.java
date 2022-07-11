@@ -1,4 +1,4 @@
-package com.projectpubsub.publisherA.model.schema;
+package com.project.pubsub.model.schema;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.databind.PropertyNamingStrategies;

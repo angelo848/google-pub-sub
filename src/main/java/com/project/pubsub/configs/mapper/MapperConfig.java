@@ -1,4 +1,4 @@
-package com.projectpubsub.publisherA.configs.mapper;
+package com.project.pubsub.configs.mapper;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;

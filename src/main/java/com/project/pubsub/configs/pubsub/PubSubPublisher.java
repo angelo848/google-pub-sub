@@ -1,4 +1,4 @@
-package com.projectpubsub.publisherA.configs.pubsub;
+package com.project.pubsub.configs.pubsub;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.api.core.ApiFuture;

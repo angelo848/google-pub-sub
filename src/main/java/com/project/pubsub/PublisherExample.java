@@ -1,4 +1,4 @@
-package com.projectpubsub.publisherA;
+package com.project.pubsub;
 
 import com.google.api.core.ApiFuture;
 import com.google.cloud.pubsub.v1.Publisher;

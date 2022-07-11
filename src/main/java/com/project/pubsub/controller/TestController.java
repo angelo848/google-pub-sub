@@ -1,7 +1,7 @@
-package com.projectpubsub.publisherA.controller;
+package com.project.pubsub.controller;
 
-import com.projectpubsub.publisherA.configs.pubsub.PubSubPublisher;
-import com.projectpubsub.publisherA.model.schema.TestSchema;
+import com.project.pubsub.configs.pubsub.PubSubPublisher;
+import com.project.pubsub.model.schema.TestSchema;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

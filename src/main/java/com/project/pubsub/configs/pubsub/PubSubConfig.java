@@ -1,4 +1,4 @@
-package com.projectpubsub.publisherA.configs.pubsub;
+package com.project.pubsub.configs.pubsub;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
