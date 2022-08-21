@@ -12,8 +12,6 @@ import java.util.TimeZone;
 public class PubSubApplication {
 
 	public static void main(String[] args) {
-		TimeZone.setDefault(TimeZone.getTimeZone("UTC"));
-		log.info("Date in UTC: {}", LocalDateTime.now());
 		SpringApplication.run(PubSubApplication.class, args);
 	}
 

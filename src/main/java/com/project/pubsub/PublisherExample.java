@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 public class PublisherExample {
 
     public static void main(String... args) throws Exception {
-        String projectId = "elevated-range-355915";
+        String projectId = "charming-sonar-359523";
         String topicId = "topic-a";
 
         publisherExample(projectId, topicId);
